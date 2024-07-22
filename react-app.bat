@@ -2,7 +2,7 @@
 set /p appName=Project Name: 
 
 echo Creating React App %appName%...
-call npx degit parasbansal/reactjs-vite-tailwindcss-boilerplate#main %appName%
+call npx degit parasbansal/react-tailwind-typescript-generouted-lucide-zustand#main %appName%
 
 cd %appName%
 
